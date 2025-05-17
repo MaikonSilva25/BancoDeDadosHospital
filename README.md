@@ -6,4 +6,7 @@ O objetivo deste projeto é estruturar de forma eficiente e segura o armazenamen
 
 🛠️ Ferramentas Utilizadas
 draw.io para criação do diagrama
+
+ ![image](https://github.com/user-attachments/assets/60004282-bfb6-4b41-a8f3-20a2a67c08a6)
  
+
